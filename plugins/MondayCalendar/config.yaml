@@ -1,0 +1,19 @@
+# MondayCalendar
+#
+# Release 0.01 (Jun 17, 2011)
+#
+# Copyright (c) 2004-2011 Yujiro Araki
+
+id: MondayCalendar
+name: MondayCalendar
+description: <__trans phrase="MondayCalendar." />
+author_link: http://www.koikikukan.com/
+author_name: Yujiro Araki
+doc_link: http://www.koikikukan.com/archives/2010/06/17-005555.php
+version: 0.1
+l10n_lexicon:
+    ja:
+        MondayCalendar.: カレンダーの週初めの曜日を変更します。
+tags:
+    block:
+        MondayCalendar: $MondayCalendar::MondayCalendar::Tags::hdlr_monday_calendar
